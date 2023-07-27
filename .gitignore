@@ -1,0 +1,24 @@
+# .gitignore
+# Archivos de bytecode de Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Archivos temporales
+*.bak
+*.tmp
+*.swp
+*~
+
+# Archivos de configuración del entorno de desarrollo
+.idea/
+.vscode/
+*.iml
+
+# Archivos de base de datos de sqlite
+*.sqlite
+
+# directorio de entorno virtual
+venv/
