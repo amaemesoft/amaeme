@@ -1,3 +1,10 @@
+#Como funciona??
+
+
+[![Alt text](https://img.youtube.com/vi/XXPPE2gnC1Q/0.jpg)](https://www.youtube.com/watch?v=XXPPE2gnC1Q)
+
+
+
 # AMAEME - Asistente de Mensajería Anónima y Extractor de Mensajería Encriptada
 
 AMAEME es una herramienta de esteganografía que permite a los usuarios ocultar mensajes dentro de imágenes y luego recuperar esos mensajes. 
